@@ -10,7 +10,7 @@
 ## Step 2: Set Up Google Apps Script
 
 1. In your Google Sheet, go to **Extensions** → **Apps Script**
-2. Delete the default code and paste the contents of `google-apps-script.js`
+2. Delete the default code and paste the contents of `integrations/google-sheets/google-apps-script.js`
 3. Save the project as "AcademicHub Enrollment Handler"
 
 ## Step 3: Deploy as Web App
